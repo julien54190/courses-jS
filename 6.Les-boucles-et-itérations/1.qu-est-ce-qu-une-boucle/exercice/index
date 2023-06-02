@@ -1,0 +1,15 @@
+Pour cet exercice, nous voulons afficher, de deux en deux, la valeur d'une variable "i", en commençant de 0.
+Écrivez en pseudo-code une boucle "POUR" qui exécute l'instruction AFFICHE(i) quatre fois avec 1, pas de 2.
+
+POUR i ALLANT_DE 0 à 8 {PAR_PAS_DE 2} FAIRE
+    AFFICHE (i)
+FIN_POUR
+
+
+Dans cet exercice, nous avons une variable totale qui est initialisée à zéro et que nous allons incrémenter de 1 tant qu'elle est inférieure à 20.
+Écrivez en pseudo-code cette boucle "TANT QUE".
+
+total = 0
+TANT_QUE total INFERIEUR À 20 FAIRE
+    total = total + 1
+FIN_TANT_QUE
